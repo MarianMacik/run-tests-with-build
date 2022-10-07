@@ -66,6 +66,7 @@
         <artifactId>maven-invoker-plugin</artifactId>
         <configuration>
           <parallelThreads>1</parallelThreads>
+          <debug>true</debug>
         </configuration>
         <executions>
           <execution>
